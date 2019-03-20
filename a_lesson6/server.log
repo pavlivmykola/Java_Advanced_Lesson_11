@@ -1,0 +1,45 @@
+2019-02-20 00:14:43 ERROR UsersDAOImpl:81 - java.sql.SQLException: Illegal operation on empty result set.
+2019-03-12 20:29:48 ERROR SubscriptionDAOImpl:109 - java.sql.SQLException: After end of result set
+2019-03-12 20:33:49 ERROR SubscriptionDAOImpl:109 - java.sql.SQLException: After end of result set
+2019-03-12 20:42:58 ERROR SubscriptionDAOImpl:109 - java.sql.SQLException: After end of result set
+2019-03-12 20:57:34 ERROR SubscriptionDAOImpl:109 - java.sql.SQLException: After end of result set
+2019-03-12 21:04:05 ERROR SubscriptionDAOImpl:109 - java.sql.SQLException: After end of result set
+2019-03-13 20:52:06 ERROR SubscriptionDAOImpl:109 - java.sql.SQLException: After end of result set
+2019-03-13 22:40:21 ERROR SubscriptionDAOImpl:109 - java.sql.SQLException: After end of result set
+2019-03-13 22:40:21 ERROR SubscriptionDAOImpl:109 - java.sql.SQLException: After end of result set
+2019-03-13 22:43:20 ERROR SubscriptionDAOImpl:109 - java.sql.SQLException: After end of result set
+2019-03-13 22:43:23 ERROR SubscriptionDAOImpl:109 - java.sql.SQLException: After end of result set
+2019-03-13 22:50:24 ERROR SubscriptionDAOImpl:109 - java.sql.SQLException: After end of result set
+2019-03-13 22:50:27 ERROR SubscriptionDAOImpl:109 - java.sql.SQLException: After end of result set
+2019-03-13 22:54:08 ERROR SubscriptionDAOImpl:109 - java.sql.SQLException: After end of result set
+2019-03-13 22:54:36 ERROR SubscriptionDAOImpl:109 - java.sql.SQLException: After end of result set
+2019-03-13 22:54:42 ERROR SubscriptionDAOImpl:109 - java.sql.SQLException: After end of result set
+2019-03-13 22:55:05 ERROR SubscriptionDAOImpl:109 - java.sql.SQLException: After end of result set
+2019-03-13 22:55:06 ERROR SubscriptionDAOImpl:109 - java.sql.SQLException: After end of result set
+2019-03-13 22:55:08 ERROR SubscriptionDAOImpl:109 - java.sql.SQLException: After end of result set
+2019-03-13 22:55:12 ERROR SubscriptionDAOImpl:89 - java.sql.SQLException: Can not issue data manipulation statements with executeQuery().
+2019-03-13 22:55:12 ERROR SubscriptionDAOImpl:109 - java.sql.SQLException: After end of result set
+2019-03-13 23:04:24 ERROR SubscriptionDAOImpl:89 - java.sql.SQLException: Can not issue data manipulation statements with executeQuery().
+2019-03-13 23:17:58 ERROR SubscriptionDAOImpl:109 - java.sql.SQLException: After end of result set
+2019-03-13 23:17:58 ERROR SubscriptionDAOImpl:109 - java.sql.SQLException: After end of result set
+2019-03-13 23:18:02 ERROR SubscriptionDAOImpl:109 - java.sql.SQLException: After end of result set
+2019-03-13 23:18:24 ERROR SubscriptionDAOImpl:89 - java.sql.SQLException: Can not issue data manipulation statements with executeQuery().
+2019-03-13 23:18:25 ERROR SubscriptionDAOImpl:109 - java.sql.SQLException: After end of result set
+2019-03-13 23:18:26 ERROR SubscriptionDAOImpl:89 - java.sql.SQLException: Can not issue data manipulation statements with executeQuery().
+2019-03-13 23:18:27 ERROR SubscriptionDAOImpl:109 - java.sql.SQLException: After end of result set
+2019-03-13 23:19:26 ERROR SubscriptionDAOImpl:89 - java.sql.SQLException: Can not issue data manipulation statements with executeQuery().
+2019-03-13 23:20:05 ERROR SubscriptionDAOImpl:109 - java.sql.SQLException: After end of result set
+2019-03-13 23:37:16 ERROR SubscriptionDAOImpl:89 - java.sql.SQLException: Can not issue data manipulation statements with executeQuery().
+2019-03-13 23:37:17 ERROR SubscriptionDAOImpl:109 - java.sql.SQLException: After end of result set
+2019-03-13 23:42:56 ERROR SubscriptionDAOImpl:90 - java.sql.SQLException: Can not issue data manipulation statements with executeQuery().
+2019-03-13 23:45:40 ERROR SubscriptionDAOImpl:90 - java.sql.SQLException: Can not issue data manipulation statements with executeQuery().
+2019-03-13 23:50:29 ERROR SubscriptionDAOImpl:110 - java.sql.SQLException: After end of result set
+2019-03-13 23:51:49 ERROR SubscriptionDAOImpl:109 - java.sql.SQLException: After end of result set
+2019-03-13 23:52:13 ERROR SubscriptionDAOImpl:109 - java.sql.SQLException: After end of result set
+2019-03-13 23:53:28 ERROR SubscriptionDAOImpl:109 - java.sql.SQLException: After end of result set
+2019-03-14 00:35:19 ERROR SubscriptionDAOImpl:109 - java.sql.SQLException: After end of result set
+2019-03-14 00:35:21 ERROR SubscriptionDAOImpl:109 - java.sql.SQLException: After end of result set
+2019-03-14 00:35:23 ERROR SubscriptionDAOImpl:109 - java.sql.SQLException: After end of result set
+2019-03-14 00:35:24 ERROR SubscriptionDAOImpl:109 - java.sql.SQLException: After end of result set
+2019-03-14 00:50:16 ERROR SubscriptionDAOImpl:109 - java.sql.SQLException: After end of result set
+2019-03-14 00:55:24 ERROR SubscriptionDAOImpl:109 - java.sql.SQLException: After end of result set
